@@ -1,0 +1,4 @@
+Queue 1: [X, X]
+Queue 2: [Shenal, X, X]
+Queue 3: [X, X, X, X, X]
+Remaining Burger stock: 50
